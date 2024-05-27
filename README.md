@@ -1,9 +1,9 @@
 # Credit-Card-Financial-Report
 Devoloped an interactive Power Bi report using transaction and customer data from SQL database, to provide real-time insights.
-Streamlined data processing and analysis to monitor Key Performence Metrics.
+Streamlined data processing and analysis to monitor Key Performance Metrics.
 Project Insights:-
         1.Revenue Increased by 28%
-        2.Total Transaction amount increased by 35%
+        2.Total Transaction amount increased by 35%.
         3.Overall Revenue 57M.
         4.Total Transaction Amount is 46M
         5.Total interest 8M.
