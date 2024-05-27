@@ -9,4 +9,4 @@ Project Insights:-
         5.Total interest 8M.
         6.Male Customer providing more in revenue 31M, Female 26M.
         7.Overall activation rate is 57.5%.
-        8.Overall Deliquent Account is 6.06%. 
+        8.Overall Delinquent Account is 6.06%. 
